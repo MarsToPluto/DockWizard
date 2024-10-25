@@ -1,0 +1,10 @@
+# .PLUTO
+
+# Domain and service configurations
+DOMAIN_NAME=example.com
+JENKINS_URL=http://jenkins:8080
+MYSQL_ROOT_PASSWORD=root
+MYSQL_DATABASE=mydatabase
+MYSQL_USER=user
+MYSQL_PASSWORD=password
+MONGODB_URL=mongodb://mongodb:27017
